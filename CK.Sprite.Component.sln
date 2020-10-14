@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK.Sprite.Excel", "CK.Sprite.Excel\CK.Sprite.Excel.csproj", "{43D79D4B-B319-474E-B9D0-532357584B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{CB1C9419-2ACD-44A2-B0F0-94A5166CDD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK.Sprite.Excel.Test", "CK.Sprite.Excel.Test\CK.Sprite.Excel.Test.csproj", "{38F29DC8-29EB-4996-B397-5DB95E98B806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D79D4B-B319-474E-B9D0-532357584B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D79D4B-B319-474E-B9D0-532357584B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D79D4B-B319-474E-B9D0-532357584B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D79D4B-B319-474E-B9D0-532357584B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F29DC8-29EB-4996-B397-5DB95E98B806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F29DC8-29EB-4996-B397-5DB95E98B806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F29DC8-29EB-4996-B397-5DB95E98B806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F29DC8-29EB-4996-B397-5DB95E98B806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38F29DC8-29EB-4996-B397-5DB95E98B806} = {CB1C9419-2ACD-44A2-B0F0-94A5166CDD69}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2109A6-21FC-4945-9795-492DC90F5437}
+	EndGlobalSection
+EndGlobal
